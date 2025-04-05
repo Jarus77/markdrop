@@ -1,0 +1,25 @@
+beautifulsoup4
+beautifulsoup4
+docling
+docling_core == 2.16.0
+openai
+openpyxl
+pandas
+Pillow
+protobuf
+python-dotenv
+
+
+
+pymupdf
+torch
+tqdm
+transformers
+timm
+requests
+qwen_vl_utils
+google.generativeai
+vllm
+openai
+setuptools
+typing
